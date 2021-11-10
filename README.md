@@ -1,2 +1,3 @@
 # resume
-My Resume in HTML / CSS
+
+[Click here to view my resume!](https://htmlpreview.github.io/)
